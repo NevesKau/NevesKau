@@ -1,0 +1,4 @@
+- # Sobre mim
+- 👋 Olá, eu sou @NevesKau
+- 👀 Eu estou interessado em começar a programar e otimizar meu aprendizado.
+- 🌱 Eu estou aprendendo a programar jogos em plataformas mais complexas e desafiadoras.
